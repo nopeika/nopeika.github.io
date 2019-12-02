@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 welcome to a table of contents, have some links
