@@ -8,6 +8,6 @@ just gonna use files bc it's easier and takes less time to update
 
 updates:
 
-[u1](./updates/u1.md)
-[u2](./updates/u2.md)
+[u1](https://nopeika.github.io/updates/u1.html)
+[u2](https://nopeika.github.io/updates/u2.html)
 
