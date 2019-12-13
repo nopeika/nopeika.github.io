@@ -12,4 +12,8 @@ updates:
 
 [u1](https://nopeika.github.io/updates/u1.html)
 [u2](https://nopeika.github.io/updates/u2.html)
+[u3](https://nopeika.github.io/updates/u3.html)
+
+senryu
+[s1](https://nopeika.github.io/senryu/s1.html)
 
