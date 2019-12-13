@@ -15,5 +15,6 @@ updates:
 [u3](https://nopeika.github.io/updates/u3.html)
 
 senryu
+
 [s1](https://nopeika.github.io/senryu/s1.html)
 
