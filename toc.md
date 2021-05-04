@@ -16,5 +16,5 @@ updates:
 
 senryu
 
-[s1](https://nopeika.github.io/senryu/s1.html)
+[s1](https://nopeika.github.io/s/s1.html)
 
