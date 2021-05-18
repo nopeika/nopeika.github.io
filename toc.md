@@ -14,7 +14,15 @@ updates:
 [u2](https://nopeika.github.io/updates/u2.html)
 [u3](https://nopeika.github.io/updates/u3.html)
 
-senryu
+short
 
 [s1](https://nopeika.github.io/s/s1.html)
+
+longer singles
+
+[blind](https://nopeika.github.io/s/blind.html)
+
+Ongoing series
+
+none .-.
 
