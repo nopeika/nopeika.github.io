@@ -13,3 +13,5 @@ submarine submarine
 submarine submarine
 
 here you [go](https://nopeika.github.io/asc.html)
+
+[hanarules](https://nopeika.github.io/hanafuda.html) 
