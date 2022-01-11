@@ -1,5 +1,7 @@
 nopeika.github.io
 
+[hanarules](https://nopeika.github.io/hanafuda.html) 
+
 hi i write things 
 
 i'm well aware that this is not how you use github but i think it's fine as long as i stay under 500 megabytes
@@ -14,4 +16,3 @@ submarine submarine
 
 here you [go](https://nopeika.github.io/asc.html)
 
-[hanarules](https://nopeika.github.io/hanafuda.html) 
